@@ -10,7 +10,7 @@ I'm a software developer, tech lover, sneaker and mechanical keyboard enthusiast
   * [LinkedIn](https://www.linkedin.com/in/william-h-jang/)
   * [Angel List](https://angel.co/u/william-jang-1)
 
-Languages and Tools:
+Languages and Frameworks:
 * JavaScript
 * React
 * Redux
