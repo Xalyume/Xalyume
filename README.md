@@ -1,16 +1,22 @@
-### Hi there 👋
+## Welcome!
 
-<!--
-**Xalyume/Xalyume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer, techn lover, sneaker and mechanical keyboard enthusiast, and open for work!
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on getting more efficient in the languages I've learned and 
+* 🌱 I’m currently learning how to establish an online presence and be more a part of the coding community.
+* 👯 I’m looking to collaborate on open source projects
+* 💬 Ask me about any of my projects, I love talking about them!
+* 📫 How to reach me: 
+  * [LinkedIn](https://www.linkedin.com/in/william-h-jang/)
+  * [Angel List](https://angel.co/u/william-jang-1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+* JavaScript
+* React
+* Redux
+* Node
+* Express
+* Python
+* Flask
+* SQLAlchemy
+* Git
