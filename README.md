@@ -1,7 +1,8 @@
 ## Welcome!
 
 I'm a software developer, tech lover, sneaker and mechanical keyboard enthusiast, and open for work!
-https://williamjang.dev/
+</br>
+[My Site](https://williamjang.dev/)
 
 * 🔭 I’m currently working on getting more efficient in the languages I've learned and introducing myself to new frameworks!
 * 🌱 I’m currently learning how to establish an online presence and be more a part of the coding community.
