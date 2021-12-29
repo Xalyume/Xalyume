@@ -22,3 +22,6 @@ Languages and Frameworks:
 * Flask
 * SQLAlchemy
 * Git
+
+
+[![Xalyume's GitHub stats](https://github-readme-stats.vercel.app/api?username=xalyume)](https://github.com/anuraghazra/github-readme-stats)
