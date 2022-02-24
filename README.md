@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm a software developer, tech lover, sneaker and mechanical keyboard enthusiast, and open for work!
+I'm a software developer, tech lover, sneaker and mechanical keyboard enthusiast, and excited about learning technologies and seeing what the future brings!
 </br>
 [My Site](https://williamjang.dev/)
 
