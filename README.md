@@ -1,6 +1,7 @@
 ## Welcome!
 
-I'm a software developer, tech lover, sneaker and mechanical keyboard enthusiast, and excited about learning technologies and seeing what the future brings!
+I'm a software developer, who loves reading and learning about how technology is evolving and changing.
+Currently a budding watch enthusiast and a recovering sneaker and mechanical keyboard addict.
 </br>
 
 * 🔭 I’m currently working on getting more efficient in the languages I've learned and introducing myself to new frameworks!
